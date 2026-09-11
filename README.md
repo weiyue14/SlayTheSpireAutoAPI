@@ -1,6 +1,6 @@
 # Slay the Spire Auto API
 
-杀戮尖塔 1 本地 HTTP API mod。此独立仓库包含 API 源码、测试、构建脚本和编译文件，不包含世界线搜索器。
+杀戮尖塔 1 本地 HTTP API mod。此独立仓库包含 API 源码、测试、构建脚本和编译文件。
 
 ## 安装
 
@@ -37,9 +37,9 @@ API 没有游戏内界面。游戏未运行或 mod 未加载时，HTTP 服务不
 ## 文件
 
 - `src/main/`：API 实现与 mod 元信息。
-- `src/test/`：离线冒烟测试。
+- `src/test/`：测试。
 - `stubs/`：测试与离线编译桩，不打包到 mod。
 - `SlayTheSpireAutoAPI.jar`：安装文件。
-- `build/`、`releases/`：本地构建与旧产物，不提交。
+
 
 仓库不包含游戏本体和第三方 mod 的 jar。
