@@ -1,0 +1,9 @@
+{
+  "modid": "slaythespire_auto_api",
+  "name": "Slay the Spire Auto API",
+  "author_list": ["weiyue14"],
+  "description": "Automation API for exact worldline search: exposes live observations, captures game-thread SaveStateMod checkpoints with every RNG stream, and executes legal play/end/potion actions. SaveStateMod is optional for observations and required for exact checkpoints.",
+  "version": "1.4.0",
+  "sts_version": "12-18-2022",
+  "mts_version": "3.30.0"
+}
